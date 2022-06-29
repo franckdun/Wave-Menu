@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+
 }
 
 body {
@@ -9,6 +10,7 @@ body {
 
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: #f9dbec;
 }
 
 .b-nav {
